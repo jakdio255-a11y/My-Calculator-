@@ -1,2 +1,3 @@
-# My-Calculator-
- আমি এই অ্যাপসটা বানিয়ে দেশের মধ্যে উন্নত কিছু করতে চাই 
+# My-Calculator
+A simple Flutter calculator app with login feature (ঐচ্ছিক)
+✅ Add a README file - চেক করুন
